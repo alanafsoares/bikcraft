@@ -1,8 +1,10 @@
 # Bikcraft 🚲
 
-# About
+# Sobre
 
-Bikcraft is a project I developed with the @origamid plataform for my studies. It's an website for people who are interested in buying customized bikes.
+
+Projeto da plataforma @ORIGAMID, do curso de webdesign completo.
+O site é voltado para venda de bicicletas customizadas.
 
 ## Layout mobile
 ![Mobile](https://github.com/alanafsoares/assets-bikcraft/blob/main/mobile-bikcraft.png)
@@ -15,8 +17,3 @@ https://alanafsoares.github.io/bikcraft/
 
 # Tech
 - HTML / CSS / JS 
-
-# Autor 
-Alana Soares
-<p>
-<a href="https://www.linkedin.com/in/alanafsoares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></p>
